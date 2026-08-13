@@ -8,17 +8,8 @@
 > ```text
 > email      marcusmicc [at] gmail [dot] com
 > linkedin   linkedin [dot] com / in / marcus-miccelli
+> Melbourne, Australia
 > ```
-
-## `./about`
-
-I'm a Computer Science and Mathematics student at Monash University who enjoys moving between theory and things people can actually use. I like mathematical rabbit holes, market problems, native software, and learning whatever a project demands.
-
-```text
-current_mode    build → test → learn → repeat
-interested_in   software · mathematics · markets · games
-based_in        Melbourne, Australia
-```
 
 ## `./selected-work`
 
@@ -29,9 +20,8 @@ based_in        Melbourne, Australia
 ## `./toolbox`
 
 ```text
-languages        Python · C# · Java · C++ · TypeScript · SQL · PowerShell
-technologies     Git · REST APIs · Azure · Vercel · Claude Code · Codex
-interests        Tournament poker · esports · volleyball
-                 music production · graphic design
-extracurricular  SIG Algothon 2026 · UniMelb QTS Poker League (S2 2026)
-```
+languages               Python · C# · Java · C++ · TypeScript · SQL · PowerShell
+technologies            Git · REST APIs · Azure · Vercel · Claude Code · Codex
+other interests         poker · esports · volleyball · music production · design
+extracurricular         SIG Algothon 2026 · UniMelb QTS Poker League (S2 2026)
+```         
