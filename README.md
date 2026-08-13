@@ -1,5 +1,5 @@
 <div align="center">
-### Marcus Miccelli
+  <h3>Marcus Miccelli</h3>
 </div>
 
 > [!IMPORTANT]
