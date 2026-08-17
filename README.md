@@ -11,7 +11,11 @@
 > Melbourne, Australia
 > ```
 
-## `./selected-work`
+## `./previous-work`
+- **Backend Developer (Intern)** — Jetstar
+- **IT Technician** — National IT Solutions
+
+## `./selected-projects`
 
 - **[Open-source contributions · Mineplex](https://github.com/Mykindos/BetterPvP/pulls?q=is%3Apr+author%3Amarcus-miccelli+is%3Amerged)** — three merged Java fixes across a 240,000-line server: fixed a damage-log null dereference, corrected pitch-dependent player velocity, and simplified code flagged for cognitive complexity.
 - **[Lobby](https://github.com/ggkr-zzz/lobby)** — an anonymous building-issue platform built with Svelte, TypeScript, and Supabase that placed **3rd at the 48-hour MACATHON 2026**; uses row-level security, realtime support counts, and threshold-based alerts.
