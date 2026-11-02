@@ -19,7 +19,7 @@
 
 - **[Open-source contributions · Mineplex](https://github.com/Mykindos/BetterPvP/pulls?q=is%3Apr+author%3Amarcus-miccelli+is%3Amerged)** — three merged Java fixes across a 240,000-line server: fixed a damage-log null dereference, corrected pitch-dependent player velocity, and simplified code flagged for cognitive complexity.
 - **[Lobby](https://github.com/ggkr-zzz/lobby)** — an anonymous building-issue platform built with Svelte, TypeScript, and Supabase that placed **3rd at the 48-hour MACATHON 2026**; uses row-level security, realtime support counts, and threshold-based alerts.
-- **[SIG SuperMarket (Predictions Cup 2026)]** — an event-driven Python trading bot utilising paired-outcome arbitrage with price convergence using Polymarket reference quotes.
+- **SIG SuperMarket (Predictions Cup 2026)** — an event-driven Python trading bot utilising paired-outcome arbitrage with price convergence using Polymarket reference quotes.
 
 ## `./toolbox`
 
