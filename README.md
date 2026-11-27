@@ -3,7 +3,7 @@
 </div>
 
 > [!IMPORTANT]
-> **Open to work:** I'm currently looking for graduate quant trading and software engineering opportunities.
+> **Open to work:** I'm seeking graduate opportunities in quantitative trading, software engineering and architecture, and data engineering and management. 
 > If you could help me get my foot in the door and learn by doing, please contact me.
 > ```text
 > email      marcusmicc [at] gmail [dot] com
